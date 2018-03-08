@@ -10,7 +10,7 @@ var C = firstNumber / secondNumber;
 var D = firstNumber * secondNumber;
 
 
-document.write("Sum is" + A + "<br>");
-document.write("subtraction is" + B + "<br>");
-document.write("division is" + C + "<br>");
-document.write("multiplication is" + D);
+alert("Sum is" + A + "<br>");
+alert("subtraction is" + B + "<br>");
+alert("division is" + C + "<br>");
+alert("multiplication is" + D);
